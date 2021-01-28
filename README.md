@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### This is another account of [WuzgXY](WuzgXY-GitHub)
+
 <!--
 **WuzgLOL/WuzgLOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
